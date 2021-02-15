@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/pawel/Documents/STUDIA/Semestr 3/Algorytmy grafowe/projekt 2/main.cpp
+iostream
+-
+vector
+-
+unordered_map
+-
+cstdio
+-
+

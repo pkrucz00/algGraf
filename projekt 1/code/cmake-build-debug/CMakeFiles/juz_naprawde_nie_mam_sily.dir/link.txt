@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/juz_naprawde_nie_mam_sily.dir/main.cpp.o  -o juz_naprawde_nie_mam_sily 

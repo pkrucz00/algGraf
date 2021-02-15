@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/pawel/Documents/STUDIA/Semestr 3/Algorytmy grafowe/projekt 1/juz naprawde nie mam sily/main.cpp
+iostream
+-
+deque
+-
+vector
+-
+algorithm
+-
+
